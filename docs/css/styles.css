@@ -326,7 +326,7 @@ a.btn:hover {
 
 .timeline .item {
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .timeline .item:last-child {
