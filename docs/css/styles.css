@@ -321,12 +321,12 @@ a.btn:hover {
     border-top-right-radius: 2px;
     position: relative;
     padding: 0 30px;
-    margin-left: 220px;
+    margin-left: 150px;
 }
 
 .timeline .item {
     position: relative;
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 
 .timeline .item:last-child {
@@ -390,14 +390,14 @@ a.btn:hover {
 
 .timeline .place {
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 0;
     font-size: 20px;
     font-weight: 300;
 }
 
 .timeline .job-meta {
     position: absolute;
-    left: -280px;
+    left: -150px;
     top: 0;
 }
 
