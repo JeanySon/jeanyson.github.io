@@ -217,7 +217,7 @@ a.btn:hover {
 .header .intro {
     background: #847d70;
     padding-top: 90px;
-    padding-bottom: 0px;
+    padding-bottom: 30px;
     position: relative;
     font-size: 16px;
 }
