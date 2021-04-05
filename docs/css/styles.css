@@ -50,7 +50,7 @@ p {
 
 .btn,
 a.btn {
-    background: #24292e;
+    background: #3d302e;
     color: #fff;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
@@ -66,7 +66,7 @@ a.btn {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.4);
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .btn:hover,
@@ -101,7 +101,7 @@ a.btn:hover {
 }
 
 #topcontrol:hover {
-    background: #007888;
+    background: #c48886;
     color: #fff;
 }
 
@@ -146,7 +146,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     padding-top: 2px;
-    font-size: 16px;
+    font-size: 14px;
     border: 2px solid rgba(255, 255, 255, 0.8);
 }
 
@@ -184,15 +184,15 @@ a.btn:hover {
 }
 
 .header .name {
-    font-size: 48px;
+    font-size: 30px;
     margin-bottom: 15px;
     letter-spacing: 0.5px;
 }
 
 .header .title {
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 300;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.9);
     margin-bottom: 30px;
 }
 
@@ -211,14 +211,14 @@ a.btn:hover {
 
 /* Page Nav */
 .page-nav-space-holder {
-    height: 60px;
+    height: 40px;
     position: relative;
 }
 
 .page-nav-wrapper {
     background: #8e3a38;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     position: absolute;
     width: 100%;
     left: 0;
@@ -237,7 +237,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper a {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
     font-weight: 500;
 }
@@ -259,7 +259,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper .page-nav li a {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.8);
     padding: inherit;
 }
 
