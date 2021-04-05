@@ -183,6 +183,24 @@ a.btn:hover {
     left: 50%;
 }
 
+.header .gist-image {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: -10px;
+    margin-left: -10px;
+    left: 10%;
+}
+
+.header .gistai-image {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: -10px;
+    margin-left: -10px;
+    left: 20%;
+}
+
 .header .name {
     font-size: 30px;
     margin-bottom: 15px;
