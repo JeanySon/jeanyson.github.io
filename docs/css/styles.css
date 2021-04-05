@@ -199,7 +199,7 @@ a.btn:hover {
 .header .intro {
     background: #847d70;
     padding-top: 90px;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
     position: relative;
     font-size: 16px;
 }
@@ -237,7 +237,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper a {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     font-weight: 500;
 }
@@ -492,13 +492,13 @@ a.btn:hover {
     border-left: none;
     padding: 0;
     font-size: 22px;
-    color: #24292e;
+    color: #8e3a38;
     font-weight: 300;
     position: relative;
 }
 
 .testimonials-section .source .name {
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .testimonials-section .source .position {
@@ -551,7 +551,7 @@ a.btn:hover {
 }
 
 .testimonials-section .carousel-indicators li.active {
-    background-color: #00BCD4;
+    background-color: #8e3a38;
     width: 10px;
     height: 10px;
     margin: 0;
