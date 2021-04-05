@@ -509,10 +509,16 @@ a.btn:hover {
 .testimonials-section .quote {
     border-left: none;
     padding: 0;
-    font-size: 22px;
-    color: #8e3a38;
+    font-size: 16px;
+    color: #8a8a8a;
     font-weight: 300;
     position: relative;
+}
+
+.testimonials a {
+    color:  #8e3a38;
+    text-decoration: none;
+    font-weight: 500;
 }
 
 .testimonials-section .source .name {
@@ -530,7 +536,7 @@ a.btn:hover {
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #00BCD4;
+    background: #8e3a38;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
