@@ -185,18 +185,18 @@ a.btn:hover {
 
 .header .gist-image {
     position: absolute;
-    width: 32px;
-    height: 32px;
-    top: -16px;
-    margin-left: -16px;
+    width: 26px;
+    height: 26px;
+    top: 13px;
+    margin-left: -13px;
 }
 
 .header .gistai-image {
     position: absolute;
-    width: 32px;
-    height: 32px;
-    top: -16px;
-    margin-left: -16px;
+    width: 26px;
+    height: 26px;
+    top: 13px;
+    margin-left: -13px;
 }
 
 .header .name {
