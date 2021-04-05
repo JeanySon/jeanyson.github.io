@@ -28,7 +28,7 @@ h6 {
 }
 
 a {
-    color: #00BCD4;
+    color: #9d9b8f;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -37,7 +37,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #007888;
+    color: #847d70;
 }
 
 a:focus {
@@ -50,7 +50,7 @@ p {
 
 .btn,
 a.btn {
-    background: #008fa1;
+    background: #24292e;
     color: #fff;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
@@ -72,7 +72,7 @@ a.btn {
 .btn:hover,
 a.btn:hover {
     color: #fff;
-    background: #00a5bb;
+    background: #b54d49;
 }
 
 #topcontrol {
@@ -80,7 +80,7 @@ a.btn:hover {
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
-    background: #008fa1;
+    background: #b54d49;
     color: #fff;
     text-align: center;
     display: inline-block;
@@ -216,7 +216,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper {
-    background: #5f2e1a;
+    background: #8e3a38;
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
@@ -233,7 +233,7 @@ a.btn:hover {
     left: 0;
     width: 100%;
     z-index: 100;
-    background: #00BCD4;
+    background: #8e3a38;
 }
 
 .page-nav-wrapper a {
@@ -316,7 +316,7 @@ a.btn:hover {
 }
 
 .timeline {
-    border-left: 3px solid #00BCD4;
+    border-left: 3px solid #8e3a38;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
     position: relative;
@@ -350,7 +350,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     background: #fff;
-    border: 3px solid #00BCD4;
+    border: 3px solid #8e3a38;
 }
 
 .timeline .item:after {
@@ -369,7 +369,7 @@ a.btn:hover {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background: #00BCD4;
+    background: #8e3a38;
     z-index: 10;
 }
 
@@ -403,7 +403,7 @@ a.btn:hover {
 
 .timeline .job-meta .title {
     font-size: 18px;
-    color: #00BCD4;
+    color: #8e3a38;
 }
 
 .timeline .job-meta .time {
