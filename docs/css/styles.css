@@ -786,19 +786,15 @@ Contact section start here
 
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
-    .header .top-bar {
-        margin: 0 auto;
-        text-align: right;
-    }
     .header .social {
-        margin: 0 auto;
         text-align: left;
     }
+
     .header .actions {
         position: static;
         margin: 0 auto;
         margin-bottom: 30px;
-        text-align: center;
+        text-align: right;
     }
 
     .header .actions .btn {
@@ -828,7 +824,7 @@ Contact section start here
         display: inline-block;
     }
     .header .nav-item li {
-        font-size: 14px;
+        font-size: 10px;
     }
     
     .header .contact-info li:last-child {
@@ -837,7 +833,7 @@ Contact section start here
 
     .testimonials-section .fa-quote-left {
         position: absolute;
-        left: -60px;
+        left: -22px;
         top: 0;
         width: 20px;
         height: 20px;
@@ -858,7 +854,7 @@ Contact section start here
     }
     .testimonials-section .fa-info {
         position: absolute;
-        left: -60px;
+        left: -22px;
         top: 0;
         width: 20px;
         height: 20px;
@@ -880,7 +876,7 @@ Contact section start here
     
     .testimonials-section .fa-location-arrow {
         position: absolute;
-        left: -60px;
+        left: -22px;
         top: 0;
         width: 20px;
         height: 20px;
@@ -903,8 +899,10 @@ Contact section start here
     .testimonials-section .item {
         padding-left: 20px;
         margin-bottom: 25px;
+        font-size: 10px;
     }
 
+    
     .section {
         padding: 20px;
     }
@@ -921,6 +919,10 @@ Contact section start here
     .timeline .place {
         font-size: 16px;
         margin-bottom: 5px;
+    }
+    
+    .timeline .job-desc {
+        font-size: 12px;
     }
 
     .timeline .job-meta {
