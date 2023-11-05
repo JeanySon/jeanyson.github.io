@@ -834,7 +834,7 @@ Contact section start here
     }
 
     .section-title {
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .timeline {
@@ -853,6 +853,11 @@ Contact section start here
 
     .book-section .item {
         padding: 0;
+    }
+
+    .testimonials-section .item {
+        padding-left: 20px;
+        margin-bottom: 25px;
     }
 
     .portfolio-section .filters .type {
@@ -988,7 +993,7 @@ Contact section start here
 .config-panel .panel-title {
     font-weight: 600;
     margin-bottom: 15px;
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
 }
 
