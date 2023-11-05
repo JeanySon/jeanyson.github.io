@@ -830,8 +830,11 @@ Contact section start here
     .header .nav-item li {
         font-size: 14px;
     }
-
     
+    .header .contact-info li:last-child {
+        margin-bottom: 0;
+    }
+
     .testimonials-section .fa-quote-left {
         position: absolute;
         left: -60px;
@@ -900,10 +903,6 @@ Contact section start here
     .testimonials-section .item {
         padding-left: 20px;
         margin-bottom: 25px;
-    }
-
-    .header .contact-info li:last-child {
-        margin-bottom: 0;
     }
 
     .section {
