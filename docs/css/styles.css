@@ -788,9 +788,12 @@ Contact section start here
 @media (max-width: 767px) {
     .header .top-bar {
         margin: 0 auto;
-        text-align: center;
+        text-align: right;
     }
-
+    .header .social {
+        margin: 0 auto;
+        text-align: left;
+    }
     .header .actions {
         position: static;
         margin: 0 auto;
@@ -894,7 +897,10 @@ Contact section start here
         font-size: 12px;
     }
 
-    
+    .testimonials-section .item {
+        padding-left: 20px;
+        margin-bottom: 25px;
+    }
 
     .header .contact-info li:last-child {
         margin-bottom: 0;
@@ -926,10 +932,7 @@ Contact section start here
         padding: 0;
     }
 
-    .testimonials-section .item {
-        padding-left: 20px;
-        margin-bottom: 25px;
-    }
+
 
     .portfolio-section .filters .type {
         font-size: 12px;
