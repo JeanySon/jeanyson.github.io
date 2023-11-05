@@ -814,13 +814,13 @@ Contact section start here
     }
 
     .header .title {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .header .contact-info li {
         margin-right: 0;
         margin-bottom: 15px;
-        font-size: 14px;
+        font-size: 12px;
         width: 100%;
         display: inline-block;
     }
@@ -834,7 +834,7 @@ Contact section start here
     }
 
     .section-title {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .timeline {
@@ -949,7 +949,7 @@ Contact section start here
 }
 
 .config-trigger .fa {
-    font-size: 22px;
+    font-size: 16px;
     padding-top: 7px;
     display: block;
     color: rgba(255, 255, 255, 0.8);
@@ -988,7 +988,7 @@ Contact section start here
 .config-panel .panel-title {
     font-weight: 600;
     margin-bottom: 15px;
-    font-size: 14px;
+    font-size: 12px;
     text-transform: uppercase;
 }
 
