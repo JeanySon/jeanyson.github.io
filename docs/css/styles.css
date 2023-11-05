@@ -786,7 +786,7 @@ Contact section start here
 
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
-    .header .social {
+    .header .top-bar {
         margin: 0 auto;
         text-align: center;
     }
@@ -814,7 +814,7 @@ Contact section start here
     }
 
     .header .title {
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .header .contact-info li {
@@ -824,6 +824,77 @@ Contact section start here
         width: 100%;
         display: inline-block;
     }
+    .header .nav-item li {
+        font-size: 14px;
+    }
+
+    
+    .testimonials-section .fa-quote-left {
+        position: absolute;
+        left: -60px;
+        top: 0;
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        background: #8e3a38;
+        color: #fff;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        border-radius: 50%;
+        -moz-background-clip: padding;
+        -webkit-background-clip: padding-box;
+        background-clip: padding-box;
+        text-align: center;
+        padding-top: 10px;
+        font-size: 12px;
+    }
+    .testimonials-section .fa-info {
+        position: absolute;
+        left: -60px;
+        top: 0;
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        background: #8e3a38;
+        color: #fff;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        border-radius: 50%;
+        -moz-background-clip: padding;
+        -webkit-background-clip: padding-box;
+        background-clip: padding-box;
+        text-align: center;
+        padding-top: 10px;
+        font-size: 12px;
+    }
+    
+    .testimonials-section .fa-location-arrow {
+        position: absolute;
+        left: -60px;
+        top: 0;
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        background: #8e3a38;
+        color: #fff;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        border-radius: 50%;
+        -moz-background-clip: padding;
+        -webkit-background-clip: padding-box;
+        background-clip: padding-box;
+        text-align: center;
+        padding-top: 10px;
+        font-size: 12px;
+    }
+
+    
 
     .header .contact-info li:last-child {
         margin-bottom: 0;
