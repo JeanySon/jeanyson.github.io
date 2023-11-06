@@ -791,7 +791,24 @@ Contact section start here
 
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
-
+    .header .actions {
+        position: absolute;
+        right: 15px;
+        top: 15px;
+    }
+    
+    .header .actions .fa {
+        margin-right: 5px;
+    }
+    
+    .header .actions a {
+        margin-right: 10px;
+        color: #fff;
+    }
+    
+    .header .actions a:last-child {
+        margin-right: 0;
+    }
 
     .header .actions .btn {
         margin-bottom: 5px;
