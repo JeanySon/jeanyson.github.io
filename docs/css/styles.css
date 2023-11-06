@@ -796,7 +796,10 @@ Contact section start here
         right: 15px;
         top: 15px;
     }
-    
+
+    .header .top-bar .container-fluid {
+        text-align: right;
+    }
     .header .actions .fa {
         margin-right: 5px;
     }
@@ -815,7 +818,7 @@ Contact section start here
         font-size: 12px;
         display: inline-block;
         width: 100%;
-        text-align: left;
+        text-align: right;
     }
 
     .header .actions .btn:last-child {
