@@ -931,6 +931,7 @@ Contact section start here
     .timeline .place {
         font-size: 16px;
         margin-bottom: 5px;
+        font-weight: 300;
     }
     
     .timeline .job-desc {
