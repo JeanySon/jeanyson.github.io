@@ -606,7 +606,11 @@ a.btn:hover {
     width: 10px;
     height: 10px;
     margin: 0;
-    margin-right: 8px;
+    margin-right: 4px;
+    
+    text-indent: 0.5em;
+    margin-left: -0.5em;
+    
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -616,6 +620,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     cursor: pointer;
+  
 }
 
 .testimonials-section .carousel-indicators li.active {
@@ -786,29 +791,20 @@ Contact section start here
 
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
-/*     .header .social {
-        text-align: left;
-    }
 
-    .header .actions {
-        position: static;
-        margin: 0 auto;
-        margin-bottom: 30px;
-        text-align: right;
-    }
-*/
+
     .header .actions .btn {
-        margin-bottom: 15px;
+        margin-bottom: 5px;
         font-size: 12px;
         display: inline-block;
         width: 100%;
         text-align: left;
     }
-/*
+
     .header .actions .btn:last-child {
         margin-bottom: 0;
     }
- */
+ 
     .header .name {
         font-size: 22px;
     }
