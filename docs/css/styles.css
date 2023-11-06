@@ -786,7 +786,7 @@ Contact section start here
 
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
-    .header .social {
+/*     .header .social {
         text-align: left;
     }
 
@@ -807,7 +807,7 @@ Contact section start here
     .header .actions .btn:last-child {
         margin-bottom: 0;
     }
-
+ */
     .header .name {
         font-size: 22px;
     }
@@ -824,6 +824,12 @@ Contact section start here
         display: inline-block;
     }
     .header .nav-item li {
+        font-size: 10px;
+    }
+    .page-nav-wrapper a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+        font-weight: 500;
         font-size: 10px;
     }
     
@@ -849,7 +855,7 @@ Contact section start here
         -webkit-background-clip: padding-box;
         background-clip: padding-box;
         text-align: center;
-        padding-top: 10px;
+        padding-top: 5px;
         font-size: 12px;
     }
     .testimonials-section .fa-info {
@@ -870,7 +876,7 @@ Contact section start here
         -webkit-background-clip: padding-box;
         background-clip: padding-box;
         text-align: center;
-        padding-top: 10px;
+        padding-top: 5px;
         font-size: 12px;
     }
     
@@ -892,12 +898,12 @@ Contact section start here
         -webkit-background-clip: padding-box;
         background-clip: padding-box;
         text-align: center;
-        padding-top: 10px;
+        padding-top: 5px;
         font-size: 12px;
     }
 
     .testimonials-section .item {
-        padding-left: 20px;
+        padding-left: 24px;
         margin-bottom: 25px;
         font-size: 10px;
     }
