@@ -796,14 +796,15 @@ Contact section start here
         margin-bottom: 30px;
         text-align: right;
     }
-
+*/
     .header .actions .btn {
         margin-bottom: 15px;
         font-size: 12px;
         display: inline-block;
         width: 100%;
+        text-align: left;
     }
-
+/*
     .header .actions .btn:last-child {
         margin-bottom: 0;
     }
@@ -830,7 +831,7 @@ Contact section start here
         color: rgba(255, 255, 255, 0.8);
         text-decoration: none;
         font-weight: 500;
-        font-size: 10px;
+        font-size: 12px;
     }
     
     .header .contact-info li:last-child {
@@ -902,6 +903,15 @@ Contact section start here
         font-size: 12px;
     }
 
+    .testimonials-section .quote {
+        border-left: none;
+        padding: 0;
+        font-size: 12px;
+        color: #8a8a8a;
+        font-weight: 300;
+        position: relative;
+    }
+    
     .testimonials-section .item {
         padding-left: 24px;
         margin-bottom: 25px;
