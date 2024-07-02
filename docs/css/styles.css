@@ -738,6 +738,7 @@ Contact section start here
     height: 120px;
     position: absolute;
     left: 30px;
+    border-radius: 70%;
 }
 
 .contact-section .intro p {
