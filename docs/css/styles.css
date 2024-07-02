@@ -183,6 +183,7 @@ a.btn:hover {
     top: -60px;
     margin-left: -60px;
     left: 50%;
+    border-radius: 70%;
 }
 
 .header .gist-image {
