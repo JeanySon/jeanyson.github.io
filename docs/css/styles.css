@@ -37,7 +37,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #847d70;
+    color: #C5C6CA;
 }
 
 a:focus {
@@ -216,7 +216,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #847d70;
+    background: #C5C6CA;
     padding-top: 90px;
     padding-bottom: 10px;
     position: relative;
