@@ -216,7 +216,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #C5C6CA;
+    background: #66665C; /* #C5C6CA; */
     padding-top: 90px;
     padding-bottom: 10px;
     position: relative;
@@ -400,7 +400,7 @@ a.btn:hover {
     position: absolute;
     right: 0;
     top: 2px;
-    color: #8a8a8a;
+    color: #C5C6CA; /*#8a8a8a; */
 }
 
 .timeline .location .fa {
