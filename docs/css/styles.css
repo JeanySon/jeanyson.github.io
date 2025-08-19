@@ -400,7 +400,7 @@ a.btn:hover {
     position: absolute;
     right: 0;
     top: 2px;
-    color: #C5C6CA; /*#C5C6CA; */
+    color: #86868c; /*#C5C6CA; */
 }
 
 .timeline .location .fa {
@@ -426,7 +426,7 @@ a.btn:hover {
 }
 
 .timeline .job-meta .time {
-    color: #C5C6CA;
+    color: #86868c;
 }
 
 .timeline .job-desc {
@@ -435,7 +435,7 @@ a.btn:hover {
 
 .skills-section .subtitle {
     font-size: 18px;
-    color: #C5C6CA;
+    color: #86868c;
     margin-top: 0;
     margin-bottom: 45px;
     font-weight: 300;
@@ -450,7 +450,7 @@ a.btn:hover {
 }
 
 .skills-section .level {
-    color: #C5C6CA;
+    color: #86868c;
     margin-bottom: 15px;
 }
 
@@ -511,7 +511,7 @@ a.btn:hover {
     border-left: none;
     padding: 0;
     font-size: 16px;
-    color: #C5C6CA;
+    color: #86868c;
     font-weight: 300;
     position: relative;
 }
@@ -527,7 +527,7 @@ a.btn:hover {
 }
 
 .testimonials-section .source .position {
-    color: #C5C6CA;
+    color: #86868c;
 }
 
 .testimonials-section .fa-quote-left {
@@ -649,7 +649,7 @@ Portfolio Section
     list-style: none;
     display: inline-block;
     padding: 8px 15px;
-    color: #C5C6CA;
+    color: #86868c;
     cursor: pointer;
     font-size: 14px;
     text-transform: uppercase;
@@ -774,7 +774,7 @@ Contact section start here
     display: inline-block;
     text-align: center;
     font-size: 24px;
-    color: #C5C6CA;
+    color: #86868c;
 }
 
 .contact-section .social a:hover {
@@ -783,12 +783,12 @@ Contact section start here
 
 .footer .container {
     /*padding: 30px;*/
-    color: #C5C6CA;
+    color: #86868c;
     letter-spacing: 0.5px;
 }
 
 .footer .container a {
-    color: #C5C6CA;
+    color: #86868c;
 }
 
 /* Extra small devices (phones, less than 768px) */
@@ -925,7 +925,7 @@ Contact section start here
         border-left: none;
         padding: 0;
         font-size: 12px;
-        color: #C5C6CA;
+        color: #86868c;
         font-weight: 300;
         position: relative;
     }
@@ -1269,7 +1269,7 @@ Contact section start here
 }
 
 .education-section .time {
-    color: #C5C6CA;
+    color: #86868c;
     margin-bottom: 15px;
 }
 
