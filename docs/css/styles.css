@@ -235,7 +235,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper {
-    background: #8e3a38;
+    background: #C80150;
     padding-top: 10px;
     padding-bottom: 10px;
     position: absolute;
@@ -252,7 +252,7 @@ a.btn:hover {
     left: 0;
     width: 100%;
     z-index: 80;
-    background: #8e3a38;
+    background: #C80150;
 }
 
 .page-nav-wrapper a {
@@ -335,7 +335,7 @@ a.btn:hover {
 }
 
 .timeline {
-    border-left: 3px solid #8e3a38;
+    border-left: 3px solid #C80150;
     border-bottom-right-radius: 2px;
     border-top-right-radius: 2px;
     position: relative;
@@ -369,7 +369,7 @@ a.btn:hover {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     background: #fff;
-    border: 3px solid #8e3a38;
+    border: 3px solid #C80150;
 }
 
 .timeline .item:after {
@@ -388,7 +388,7 @@ a.btn:hover {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background: #8e3a38;
+    background: #C80150;
     z-index: 10;
 }
 
@@ -422,7 +422,7 @@ a.btn:hover {
 
 .timeline .job-meta .title {
     font-size: 18px;
-    color: #8e3a38;
+    color: #C80150;
 }
 
 .timeline .job-meta .time {
@@ -517,7 +517,7 @@ a.btn:hover {
 }
 
 .testimonials a {
-    color:  #8e3a38;
+    color:  #C80150;
     text-decoration: none;
     font-weight: 500;
 }
@@ -537,7 +537,7 @@ a.btn:hover {
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #8e3a38;
+    background: #C80150;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -558,7 +558,7 @@ a.btn:hover {
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #8e3a38;
+    background: #C80150;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -580,7 +580,7 @@ a.btn:hover {
     width: 36px;
     height: 36px;
     display: inline-block;
-    background: #8e3a38;
+    background: #C80150;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -625,7 +625,7 @@ a.btn:hover {
 }
 
 .testimonials-section .carousel-indicators li.active {
-    background-color: #8e3a38;
+    background-color: #C80150;
     width: 10px;
     height: 10px;
     margin: 0;
@@ -641,7 +641,7 @@ Portfolio Section
     margin: 0 auto;
     margin-bottom: 30px;
     text-align: center;
-    border-bottom: 1px solid #e8e8e8;
+    border-bottom: 1px solid #C80150;
 }
 
 .portfolio-section .filters .type {
@@ -863,7 +863,7 @@ Contact section start here
         width: 20px;
         height: 20px;
         display: inline-block;
-        background: #8e3a38;
+        background: #C80150;
         color: #fff;
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
@@ -884,7 +884,7 @@ Contact section start here
         width: 20px;
         height: 20px;
         display: inline-block;
-        background: #8e3a38;
+        background: #C80150;
         color: #fff;
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
@@ -906,7 +906,7 @@ Contact section start here
         width: 20px;
         height: 20px;
         display: inline-block;
-        background: #8e3a38;
+        background: #C80150;
         color: #fff;
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
